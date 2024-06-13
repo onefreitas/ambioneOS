@@ -1,4 +1,4 @@
-# • ambioneOS
+# ambioneOS
 Desktop Window Maneger
 Welcome to the ambione OS base hypr
 
