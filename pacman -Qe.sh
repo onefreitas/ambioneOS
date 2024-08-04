@@ -1,4 +1,4 @@
-'╭─ sex jun 07 • 11:23:28 • one • cd ~
+'╭─ sex jun 07 • one • cd ~
  ╰•  pacman -Qe'
 $alacritty 0.13.2-2
 $alsa-utils 1.2.11-1
